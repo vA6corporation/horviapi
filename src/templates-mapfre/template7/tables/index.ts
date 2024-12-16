@@ -1,0 +1,14 @@
+export { Table1 } from "./table1";
+export { Table2 } from "./table2";
+export { Table3 } from "./table3";
+export { Table4 } from "./table4";
+export { Table5 } from "./table5";
+export { Table6 } from "./table6";
+export { Table7 } from "./table7";
+export { Table8 } from "./table8";
+export { Table9 } from "./table9";
+export { Table10 } from "./table10";
+export { Table11 } from "./table11";
+export { Table12 } from "./table12";
+export { Table13 } from "./table13";
+export { Table14 } from "./table14";

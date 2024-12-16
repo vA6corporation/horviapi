@@ -1,0 +1,14 @@
+cron:
+- description: "Procesar notificaciones"
+  url: /api/v1/notifications/processNotifications
+  schedule: every 1 hours
+
+- description: "Procesar seaces 1"
+  url: /api/v1/seaces/processSeaces
+  schedule: every day 08:30
+  timezone: America/Lima
+
+- description: "Procesar seaces 2"
+  url: /api/v1/seaces/processSeaces
+  schedule: every day 14:00
+  timezone: America/Lima
